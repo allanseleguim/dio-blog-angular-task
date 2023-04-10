@@ -1,0 +1,6 @@
+
+.artigos{
+  display: flex;
+  flex-direction: row;
+}
+
